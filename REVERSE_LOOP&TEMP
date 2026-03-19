@@ -17,6 +17,8 @@ class Main{
   }
 }
 
+
+
 int a = 1234;
 String str = Integer.toString(a);
 String rev = "";
@@ -25,3 +27,15 @@ rev = rev + str.charAt(i);
 }
 System.out.println(rev);
 
+
+
+int arr[] = {1,2,3,4,5};
+int start = 0;
+int end = arr.length - 1;
+while(start < end){
+    int temp = arr[start];
+    arr[start] = arr[end];
+    arr[end] = temp;
+    start++;
+    end--;
+}
