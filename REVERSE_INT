@@ -1,0 +1,13 @@
+class Main{
+  public static void main(String[]args){
+    int a = 1234;
+    int start = a;
+    int end = 0;
+    while(start > 0){
+      int digit = start % 10;
+      end = end * 10 + digit;
+      start = start / 10;
+    }
+    System.out.println(end);
+  }
+}
