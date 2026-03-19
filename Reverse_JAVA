@@ -47,3 +47,14 @@ String str = Integer.toString(a);
 StringBuilder sb = new StringBuilder(str);
 System.out.println(sb.reverse());
  
+
+
+import java.util.*;
+class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        String a = sc.next();
+        StringBuilder sb = new StringBuilder(a);
+        System.out.println(sb.reverse().toString());
+    }
+}
