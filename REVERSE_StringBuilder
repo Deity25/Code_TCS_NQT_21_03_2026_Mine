@@ -1,8 +1,0 @@
-class Main {
-  public static void main(String[]args){
-    int a = 1234; or String str = "abcd";
-    String str = Integer.toString(a);
-    StringBuilder sb = new StringBuilder(str);
-    System.out.println(sb.reverse());
-  }
-}
