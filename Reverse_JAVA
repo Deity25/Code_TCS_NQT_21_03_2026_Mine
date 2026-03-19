@@ -1,1 +1,49 @@
+class Main{
+  public static void main(String[]args){
+    int a = 1234;
+    int start = a;
+    int end = 0;
+    boolean isNegative = start < 0;
+    start = Math.abs(start);
+    while(start>0){
+      int digit = start % 10;
+      end = end * 10 + digit;
+      start = start / 10;
+    }
+      if(isNegative){
+      end = -end;
+}
+    System.out.println(end);
+  }
+}
 
+
+
+int a = 1234;
+String str = Integer.toString(a);
+String rev = "";
+for(int i = str.length()-1; i>=0; i--){
+rev = rev + str.charAt(i);
+}
+System.out.println(rev);
+
+
+
+int arr[] = {1,2,3,4,5};
+int start = 0;
+int end = arr.length - 1;
+while(start < end){
+    int temp = arr[start];
+    arr[start] = arr[end];
+    arr[end] = temp;
+    start++;
+    end--;
+}
+
+
+
+int a = 1234; or String str = "abcd";
+String str = Integer.toString(a);
+StringBuilder sb = new StringBuilder(str);
+System.out.println(sb.reverse());
+ 
