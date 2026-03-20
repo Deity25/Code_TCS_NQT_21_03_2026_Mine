@@ -30,5 +30,22 @@ int a = sc.nextInt();
 Set<String> b = new HashSet<>();
 int prev = -1;
 
+for(int i = 0; i < a; i++){
+String sender = sc.next();
+String receiver = sc.next();
+int time = sc.nextInt();
+int amount = sc.nextInt();
+
+String key = sender + "-" + receiver;
+if(b.contains(key)){
+System.out.println("Error: Duplicate Transaction");
+}
+b.add(key);
+}
+if(prev != -1 && (time - prev > 60)){
+System.out.println("Fraud Detected");
+return;
+}
+System.out.println("All Valid");
 }
 }
