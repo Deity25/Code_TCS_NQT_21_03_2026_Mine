@@ -1,1 +1,16 @@
+Q. Gym Membership. 
 
+import java.util.*;
+class Main {
+public static void main(String[]args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+switch(a){
+case 1 -> System.out.println("2000");
+case 3 -> System.out.println("5000");
+case 5 -> System.out.println("9000");
+case 7 -> System.out.println("15000");
+case 0 -> System.out.println("Invalid Input");
+}
+}
+}
