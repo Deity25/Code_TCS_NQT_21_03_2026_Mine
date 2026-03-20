@@ -1,4 +1,4 @@
-Q. Gym Membership. If 0 month print invalid input and if 1 month then print 2000 and for 3 print 5000 and for 5 print 9000 and finally for 7 print 15000 rupees.
+Q.1 Gym Membership. If 0 month print invalid input and if 1 month then print 2000 and for 3 print 5000 and for 5 print 9000 and finally for 7 print 15000 rupees.
 
 import java.util.*;
 class Main {
@@ -20,3 +20,15 @@ Q.2 Problem Statement: Transaction Monitoring System
 A digital payment platform needs to monitor transactions for two types of issues:
 Duplicate Transactions: If a sender sends money to the same receiver more than once in the given list, it's flagged as a duplicate.
 Fraudulent Activity (Time Gap): If the time difference between any two consecutive transactions in the input list is more than 60 seconds, it is flagged as a potential fraud.
+
+
+import java.util.*;
+class Main{
+public static void main(String[]args){
+Scanner sc = new Scanner(System.in);
+int a = sc.nextInt();
+Set<String> b = new HashSet<>();
+int prev = -1;
+
+}
+}
