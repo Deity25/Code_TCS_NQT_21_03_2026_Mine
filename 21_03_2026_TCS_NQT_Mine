@@ -1,1 +1,25 @@
 Q.1 Shopping And Customer. Time Not Sufficient. 
+
+mycode: test case pass 1 only. 
+import java.util.*;
+class MyClass {
+    public static void main(String[] args) {
+        System.out.println("Try programiz.pro");
+        Scanner sc = new Scanner(System.in);
+        int price = sc.nextInt();
+        if(price <= 1000){
+            System.out.println(price - price*0.05);
+        }
+        else if(price > 1000 && price <= 5000){
+            System.out.println(price - price*0.10);
+        }
+        else if(price > 5000){
+            System.out.println(price - price*0.15);
+        }
+        else {
+            System.out.println("Negative so Error");
+        }
+    }
+}
+
+correct code: problem solved decimal i.e 1080.00 and negative
