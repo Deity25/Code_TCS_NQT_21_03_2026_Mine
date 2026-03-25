@@ -1,0 +1,46 @@
+📊 COMPLETE TCS NQT QUESTION LIST — TABLE FORMAT
+🧠 SECTION A — CODING / PROGRAMMING
+Category	Questions / Topics
+Arrays	Move zeroes, Second/Kth largest, Leaders, Missing number, Remove duplicates, Rotate array, Merge sorted arrays, Maximum subarray sum, Equilibrium index, Pair with sum, Count inversions, Majority element, Sort 0/1/2, Rearrange +/- numbers, Trapping rain water
+Strings	Palindrome, Reverse string/words, Anagram, Remove duplicates, Vowel/consonant count, Frequency, First non-repeating char, Longest substring (no repeat), Toggle case, Remove spaces, Compression, Rotation check, Valid parentheses, Substring search, Pattern matching
+Number Problems	Prime, Armstrong, Perfect, Strong number, Factorial, Fibonacci, GCD/LCM, Reverse number, Palindrome number, Sum of digits, Power, Trailing zeros, Swap without temp, Count digits, Decimal↔Binary
+Bit Manipulation	Power of 2 check, Count set bits, Toggle bits, Set/clear bit, Unique element (XOR), Swap bits, Even/odd using bit
+Matrix	Spiral traversal, Diagonal sum, Transpose, Rotate 90°, Search element, Boundary traversal
+Recursion / Backtracking	Fibonacci recursion, Tower of Hanoi, Subsets, Permutations, N-Queens basics
+Hashing / Map	Frequency count, First repeating element, Pair sum (hash), Duplicate detection, Longest consecutive sequence
+Sliding Window / Advanced	Max sum subarray size K, Longest substring K unique, Max consecutive ones, Aqua curtain-type problems
+🧮 SECTION B — QUANTITATIVE APTITUDE
+Category	Questions / Topics
+Percentage / Profit & Loss	Successive %, Discount, Profit/Loss %, CP/SP problems, Gain after discount
+Ratio & Proportion	Direct/Inverse proportion, Mixtures, Alligation, Partnership, Ratio change
+Averages	Basic, Combined, Missing value, Weighted average, Class average
+Time, Speed & Distance	Relative speed, Trains, Boats & streams, Circular track, Speed conversion
+Time & Work	Men/Women efficiency, Pipes & cisterns, Work completion, Alternate work, Work equivalence
+Simple & Compound Interest	SI formula, CI yearly, CI vs SI difference, Rate/time problems
+Number System	LCM/HCF, Divisibility, Remainders, Cyclicity, Base conversions
+Algebra	Linear equations, Quadratics, Simplification, Surds & indices
+Geometry & Mensuration	Areas, Surface area & volume, Sphere/Cylinder, Coordinate distance
+Probability	Basic probability, Dice, Cards, Conditional probability
+Permutation & Combination	Arrangements, Selections, Circular permutations
+Logarithms	Log laws, Equation solving using logs
+🧩 SECTION C — REASONING
+Category	Questions / Topics
+Seating Arrangement	Linear, Circular, Direction-based, Complex puzzles
+Blood Relations	Family tree problems
+Coding-Decoding	Letter shift, Number coding, Pattern mapping
+Direction Sense	Distance + direction problems
+Ranking	Position from top/bottom
+Syllogisms	Logical conclusions
+Data Sufficiency	Determine adequacy of data
+Statement & Assumption	Critical reasoning
+Non-Verbal Reasoning	Pattern completion, Mirror images, Series
+⭐ HIGH-LEVEL (Digital / Prime Focus)
+Category	Questions / Topics
+Advanced Coding	Sliding window optimization, Bitwise tricks, Graph basics, Recursion/backtracking
+Complex Aptitude	Probability + combinatorics mix, Case studies
+Advanced Reasoning	Multi-layer puzzles, Analytical reasoning
+🎯 Coverage Insight
+Level	Preparation Coverage
+Ninja	Core topics only
+Digital	Core + Advanced
+Prime	Advanced + Optimization + Hard puzzles
